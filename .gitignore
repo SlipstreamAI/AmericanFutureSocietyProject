@@ -1,0 +1,19 @@
+# Local or restricted material
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.pfx
+*.p12
+__pycache__/
+*.py[cod]
+.venv/
+node_modules/
+.DS_Store
+Thumbs.db
+# External runtime and scratch data do not belong in source control.
+runtime/
+scratch/
+data/raw/
+data/private/
