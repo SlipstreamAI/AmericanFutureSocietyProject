@@ -4,7 +4,7 @@ Updated: 2026-10-25. Read the [handoff](HANDOFF.md), [decisions](DECISIONS.md), 
 
 ## Stage
 
-Research foundation prepared locally on `docs/research-foundation`. Public publication awaits operator approval. This repository organizes the vision and future research; it does not yet contain a completed feasibility study or new calibrated simulation.
+Research foundation prepared on `docs/research-foundation`; public publication and integration into `main` were explicitly approved by the operator on 2026-10-25. Publication is in progress. This repository organizes the vision and future research; it does not yet contain a completed feasibility study or new calibrated simulation.
 
 ## Direct observations from setup
 
@@ -26,4 +26,4 @@ No chosen site or optimal population; no verified water/entitlement path; no dem
 
 ## Active / next work
 
-[AFS-0001](tasks/AFS-0001-foundation.md) is prepared for publication review. No future research is automatically started. The [backlog](BACKLOG.md) proposes scoped tasks; the operator chooses the next one. Avoid duplicating the other conversation's work before its outputs are available for review.
+[AFS-0001](tasks/AFS-0001-foundation.md) is being published under [D-004](DECISIONS.md). No future research is automatically started. The [backlog](BACKLOG.md) proposes scoped tasks; the operator chooses the next one. Avoid duplicating the other conversation's work before its outputs are available for review.

@@ -3,7 +3,7 @@
 - Date: 2026-10-25, America/Los_Angeles.
 - Owner: Codex, acting alone under operator instructions.
 - Branch: `docs/research-foundation`, based on a local empty `main` initialization because the remote had no commits.
-- Status: prepared locally; public publication pending operator approval.
+- Status: documentation verified; operator approved public publication and integration into main; publication in progress.
 - Request: properly set up AmericanFutureSocietyProject with the full vision, research departments, READMEs, and a shared agent log.
 - Write scope: initial documentation, lightweight Git conventions, contribution/research templates, and coordination records. No production service or model implementation.
 
@@ -30,4 +30,4 @@ Local document verification checked 63 files, 61 Markdown documents, 285 relativ
 
 ## Blockers and handoff
 
-Public push requires operator approval under the global ask-first rule. No land, legal, commercial, financing, or service feasibility work is claimed. No helpers, background processes, automations, or deployments were started. See [HANDOFF.md](../HANDOFF.md) for continuation context.
+The operator approved public publication and integration into main on 2026-10-25; the original publication blocker is resolved. No land, legal, commercial, financing, or service feasibility work is claimed. No helpers, background processes, automations, or deployments were started. See [HANDOFF.md](../HANDOFF.md) for continuation context.

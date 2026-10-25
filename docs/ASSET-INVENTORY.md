@@ -5,7 +5,7 @@ Date: 2026-10-25. This is a provenance and verification record, not an audit of 
 | Asset | What was observed or reported | Verification state / next action |
 | --- | --- | --- |
 | Founding conversation | Read from the initial public-contribution policy discussion through the latest research turn | Summarized in [origin](../vision/ORIGIN.md); private transcript omitted |
-| AmericanFutureSocietyProject | GitHub metadata and remote heads inspected; public and empty at setup start | Initial documentation being prepared locally; no pre-existing code imported |
+| AmericanFutureSocietyProject | GitHub metadata and remote heads inspected; public and empty at setup start | Initial documentation verified and approved for publication; no pre-existing code imported |
 | Regional Homestead presentation | Conversation reported a completed 46-slide deck | Deck contents not audited here; slide-comment edits were later acknowledged as unread/unapplied |
 | Futures Lab site | Conversation reported a published [prototype](https://townlab-futures-quinn.quinnmaceachern.chatgpt.site/) with landscape timelines, household cases, scenario controls, and exports | Access and actual behavior not independently verified here |
 | Research kit | Conversation linked a kit containing source, assumptions, governance drafts, and checks | Not downloaded or imported; inspect before reusing |

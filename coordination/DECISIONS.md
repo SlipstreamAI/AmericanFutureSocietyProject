@@ -31,7 +31,9 @@ Record the decision, status, date, decision-maker, rationale, scope, alternative
 ## D-004: Public publication
 
 - Date: 2026-10-25.
-- Status: pending operator approval.
+- Status: operator-approved.
 - Observation: GitHub reports the repository public.
-- Question: approve publishing the reviewed foundation to this public repository, or direct a different publication path?
-- Current treatment: prepare and verify locally; do not change visibility or publish without the required approval.
+- Decision-maker: operator, explicitly approving "Publish the foundation and integrate into main" in reply to the publication request.
+- Choice: publish the reviewed foundation to `SlipstreamAI/AmericanFutureSocietyProject` and integrate it into `main`.
+- Scope: this foundation and its publication records. Repository visibility, licensing, future research, outreach, and deployment are separate decisions.
+- History: preparation was held locally until this approval was received; that publication blocker is now resolved.

@@ -8,7 +8,7 @@ Read the [vision](../vision/README.md) and [origin](../vision/ORIGIN.md). The op
 
 ## Where work stands
 
-The initial foundation is prepared on `docs/research-foundation`. Public publication requires the operator's approval. The remote was public and empty at task start; `main` has a local empty initialization commit so the task branch can be based on main.
+The initial foundation is prepared on `docs/research-foundation`. The operator explicitly approved public publication and integration into main on 2026-10-25; publication is in progress. The remote was public and empty at task start; an empty main initialization commit supplies the task branch's base.
 
 The deck, existing site, and research kit are cataloged as reported earlier work in [the asset inventory](../docs/ASSET-INVENTORY.md). Another ChatGPT conversation was researching economics, land, and organization. Import only reviewed useful outputs, with provenance, and reconcile them with this foundation; do not assume their conclusions are validated.
 

@@ -4,6 +4,6 @@ Keep one row per bounded task and details in the linked task file. Use dates in 
 
 | Task | Date | Owner | Request / write scope | Status | Outputs and handoff |
 | --- | --- | --- | --- | --- | --- |
-| [AFS-0001](tasks/AFS-0001-foundation.md) | 2026-10-25 | Codex, acting alone | Establish vision, research departments, READMEs, and shared agent log | Prepared locally; public publication pending | [Status](STATUS.md); [foundation scope](../docs/FOUNDATION-SCOPE.md); [handoff](HANDOFF.md) |
+| [AFS-0001](tasks/AFS-0001-foundation.md) | 2026-10-25 | Codex, acting alone | Establish vision, research departments, READMEs, and shared agent log | Verified; publication and main integration approved | [Status](STATUS.md); [foundation scope](../docs/FOUNDATION-SCOPE.md); [handoff](HANDOFF.md) |
 
 New task: copy the [work-entry template](../templates/WORK-ENTRY.md), choose the next unused ID, and record the actual operator request. Suggested tasks are in [BACKLOG.md](BACKLOG.md).
