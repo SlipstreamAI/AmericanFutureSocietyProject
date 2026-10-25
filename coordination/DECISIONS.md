@@ -37,3 +37,4 @@ Record the decision, status, date, decision-maker, rationale, scope, alternative
 - Choice: publish the reviewed foundation to `SlipstreamAI/AmericanFutureSocietyProject` and integrate it into `main`.
 - Scope: this foundation and its publication records. Repository visibility, licensing, future research, outreach, and deployment are separate decisions.
 - History: preparation was held locally until this approval was received; that publication blocker is now resolved.
+- Publication and integration record: [PR #1](https://github.com/SlipstreamAI/AmericanFutureSocietyProject/pull/1).

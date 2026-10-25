@@ -3,7 +3,7 @@
 - Date: 2026-10-25, America/Los_Angeles.
 - Owner: Codex, acting alone under operator instructions.
 - Branch: `docs/research-foundation`, based on a local empty `main` initialization because the remote had no commits.
-- Status: documentation verified; operator approved public publication and integration into main; publication in progress.
+- Status: completed documentation foundation; published through [PR #1](https://github.com/SlipstreamAI/AmericanFutureSocietyProject/pull/1), which records integration into main.
 - Request: properly set up AmericanFutureSocietyProject with the full vision, research departments, READMEs, and a shared agent log.
 - Write scope: initial documentation, lightweight Git conventions, contribution/research templates, and coordination records. No production service or model implementation.
 
@@ -26,8 +26,10 @@ The repo's public visibility differs from the operator's usual private-repo conv
 
 ## Validation
 
-Local document verification checked 63 files, 61 Markdown documents, 285 relative links, all 16 department charter structures, 16 assumption IDs, 16 question IDs, required coordination files, file sizes, and eight illustrative arithmetic relationships. The targeted private-content/credential scan found no matches. The review also checked the vision against the founding discussion and kept earlier artifact claims explicitly unverified. Git whitespace validation is run on the staged change before commit. These checks do not audit the existing prototype or establish real-world feasibility.
+Local document verification checked 63 files, 61 Markdown documents, all relative links (285 before approval records; 287 in the final publication tree), all 16 department charter structures, 16 assumption IDs, 16 question IDs, required coordination files, file sizes, and eight illustrative arithmetic relationships. The targeted private-content/credential scan found no matches. The review also checked the vision against the founding discussion and kept earlier artifact claims explicitly unverified. Git whitespace validation is run on the staged change before commit. These checks do not audit the existing prototype or establish real-world feasibility.
 
 ## Blockers and handoff
 
 The operator approved public publication and integration into main on 2026-10-25; the original publication blocker is resolved. No land, legal, commercial, financing, or service feasibility work is claimed. No helpers, background processes, automations, or deployments were started. See [HANDOFF.md](../HANDOFF.md) for continuation context.
+
+The task branch was pushed before integration. The PR and Git history retain the publication record. Local cleanup returns the ordinary checkout to main and removes the local task branch; no extra worktree was created. Temporary generation and verification files were removed after the initial local checks.
